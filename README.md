@@ -7,9 +7,13 @@ Chatbot conversacional desenvolvido para o EV Challenge 2026 (FIAP × GoodWe), c
 # Integrantes
 
 Lucas Silva de Abreu - RM 572321
+
 Guilherme Reiche - RM 
+
 Enzo Guislandi - RM 
+
 João Camperlingo - RM 568957
+
 Nicolas Nishi - RM 572242
 
 ---
