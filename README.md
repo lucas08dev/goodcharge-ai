@@ -104,6 +104,7 @@ LangChain será utilizado para gerenciamento do fluxo conversacional e memória.
 # Fluxograma
 
 O fluxograma representa o funcionamento lógico do chatbot.
+
 ![Fluxograma do sistema](docs/fluxograma.png)
 
 ## Fluxo principal
