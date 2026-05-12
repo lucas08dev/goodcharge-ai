@@ -16,6 +16,8 @@ João Camperlingo - RM 568957
 
 Nicolas Nishi - RM 572242
 
+Davi Monteiro - RM 573290
+
 ---
 
 # Problema abordado
